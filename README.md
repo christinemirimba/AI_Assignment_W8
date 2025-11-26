@@ -99,11 +99,6 @@ AI_Assignment_W8/
 ### Simulation Overview
 The practical implementation demonstrates how the three AI agent types work together in a real manufacturing environment using n8n workflow automation.
 
-### 🚀 Live Demo Access
-
-**Primary Access Point**: [https://autoparts-n8n-simulation.netlify.app](https://autoparts-n8n-simulation.netlify.app)
-
-**GitHub Repository**: [https://github.com/autoparts-ai-simulation](https://github.com/autoparts-ai-simulation)
 
 ### Simulation Components
 
@@ -249,7 +244,5 @@ This comprehensive AI Agents assignment successfully demonstrates:
 
 ---
 
-**Last Updated**: November 26, 2025  
-**Assignment Status**: Complete  
-**Simulation Status**: Live Demo Available  
+
 **Repository Status**: Ready for Academic Review
